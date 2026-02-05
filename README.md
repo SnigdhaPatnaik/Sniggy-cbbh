@@ -8,7 +8,8 @@ A passionate React.js developer who loves building clean, simple and classy UI.
 
 ### 🌱 Currently Learning
 - React Query  
-- Payment Gateway Integration  
+- Payment Gateway Integration
+- --
 
 
 
